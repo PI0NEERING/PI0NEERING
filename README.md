@@ -1,16 +1,13 @@
-## Hi there 👋
+/***************************************************************************
+* THE GEEK CODE VERSION 6.0                                                *
+* FOR INFORMATION AND FULL DOCUMENTATION OF THE GEEK CODE STANDARD V6.0    *
+* PLEASE VISIT: HTTPS://GITHUB.COM/TELAVIVMAKERS/GEEK_CODE                 *
+* DECODE YOUR GEEK CODE OR GENERATE YOUR OWN USING THE ABOVE REPOSITORY    *
+***************************************************************************/
 
-<!--
-**PI0NEERING/PI0NEERING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----- BEGIN GEEK CODE VERSION 6.0 -----
+GCS/CM/IT A-- B_:--:_:--:- C-(C+)>!C D_:+ CM++
+MW++ ULD+++ !MC Lj+/Lp/Lbash+/Lasm- IO+:- PGP++
+G/Gl:PI0NEERING E+ H- !PS+ !PE TBBT+ TDW+++
+TMON +++ RPG+>++ BK++ !K INTP R- he/him--
+----- END GEEK CODE VERSION 6.0 -----
